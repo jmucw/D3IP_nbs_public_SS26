@@ -1,0 +1,13 @@
+pandas
+seaborn
+numpy
+geopandas
+osmnx
+contextily
+pyproj
+matplotlib
+mapclassify
+scipy
+geodatasets
+scikit-learn
+folium
